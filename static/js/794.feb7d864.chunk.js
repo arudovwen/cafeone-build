@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcafeone=self.webpackChunkcafeone||[]).push([[794],{2042:function(e,n,a){a.r(n);a(7313);var c=a(6417);n.default=function(){return(0,c.jsx)(c.Fragment,{children:"This is HomePage."})}}}]);
